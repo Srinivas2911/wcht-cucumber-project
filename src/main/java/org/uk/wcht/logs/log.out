@@ -1,0 +1,131 @@
+2020-04-28 00:04:553 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 00:04:745 INFO  HomePage :35 - Clicking on Your Home Link :[[ChromeDriver: chrome on WINDOWS (2e0f381a3ccc65b9fef379682a1cf501)] -> xpath: //span[contains(text(),'Your account')]]
+2020-04-28 00:04:579 INFO  HomePage :29 - Clicking on Pay Your Rent Link  : [[ChromeDriver: chrome on WINDOWS (2e0f381a3ccc65b9fef379682a1cf501)] -> xpath: //p[contains(text(),'You can pay your rent quickly and easily online. M')]]
+2020-04-28 00:04:563 INFO  HomePage :36 - Displaying Your Home Text  :Your home [[ChromeDriver: chrome on WINDOWS (2e0f381a3ccc65b9fef379682a1cf501)] -> xpath: //h1[contains(text(),'Your home')]]
+2020-04-28 01:04:976 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:265 INFO  HomePage :52 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (4d35ea156ca849cbbc6820d4a86b0e2e)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Find a home')]]
+2020-04-28 01:04:523 INFO  HomePage :33 - Clicking on Exchange Your  Home Link :[[ChromeDriver: chrome on WINDOWS (4d35ea156ca849cbbc6820d4a86b0e2e)] -> xpath: //h3[contains(text(),'Exchange your home')]]
+2020-04-28 01:04:802 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:722 INFO  HomePage :52 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (c5e1805cb44cb68c64224aef0b17deb0)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Find a home')]]
+2020-04-28 01:04:51 INFO  HomePage :34 - Clicking on Exchange Your  Home Link :[[ChromeDriver: chrome on WINDOWS (c5e1805cb44cb68c64224aef0b17deb0)] -> xpath: //h3[contains(text(),'Exchange your home')]]
+2020-04-28 01:04:711 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:86 INFO  HomePage :52 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (5c1788967b8f8fe9bd63ac890ead43aa)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Find a home')]]
+2020-04-28 01:04:551 INFO  HomePage :34 - Clicking on Exchange Your  Home Link :[[ChromeDriver: chrome on WINDOWS (5c1788967b8f8fe9bd63ac890ead43aa)] -> xpath: //p[contains(text(),'Swapping homes using the mutual exchange service i')]]
+2020-04-28 01:04:456 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:738 INFO  HomePage :52 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (4fc31b38a4b0bcb124539c2165c5aef9)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Find a home')]]
+2020-04-28 01:04:987 INFO  HomePage :34 - Clicking on Exchange Your  Home Link :[[ChromeDriver: chrome on WINDOWS (4fc31b38a4b0bcb124539c2165c5aef9)] -> xpath: //p[contains(text(),'Swapping homes using the mutual exchange service i')]]
+2020-04-28 01:04:269 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:819 INFO  HomePage :52 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (4a195f5afa6b538a43d8f5398940458e)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Find a home')]]
+2020-04-28 01:04:433 INFO  HomePage :34 - Clicking on Exchange Your  Home Link :[[ChromeDriver: chrome on WINDOWS (4a195f5afa6b538a43d8f5398940458e)] -> xpath: //p[contains(text(),'Swapping homes using the mutual exchange service i')]]
+2020-04-28 01:04:686 INFO  HomePage :39 - Displaying Exchange Your Home Text  :Exchange your home [[ChromeDriver: chrome on WINDOWS (4a195f5afa6b538a43d8f5398940458e)] -> xpath: //h1[@class='inner-banner__title']]
+2020-04-28 01:04:990 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:399 INFO  HomePage :52 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (e4410da49f6146badeb82b29ca8ea253)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Find a home')]]
+2020-04-28 01:04:868 INFO  HomePage :34 - Clicking on Exchange Your  Home Link :[[ChromeDriver: chrome on WINDOWS (e4410da49f6146badeb82b29ca8ea253)] -> xpath: //p[contains(text(),'Swapping homes using the mutual exchange service i')]]
+2020-04-28 01:04:139 INFO  HomePage :39 - Displaying Exchange Your Home Text  :Exchange your home [[ChromeDriver: chrome on WINDOWS (e4410da49f6146badeb82b29ca8ea253)] -> xpath: //h1[@class='inner-banner__title']]
+2020-04-28 01:04:326 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:224 INFO  HomePage :52 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (00e62b2311c5ae84c617513b8b87327f)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Find a home')]]
+2020-04-28 01:04:304 INFO  HomePage :34 - Clicking on Exchange Your  Home Link :[[ChromeDriver: chrome on WINDOWS (00e62b2311c5ae84c617513b8b87327f)] -> xpath: //p[contains(text(),'Swapping homes using the mutual exchange service i')]]
+2020-04-28 01:04:636 INFO  HomePage :39 - Displaying Exchange Your Home Text  :Exchange your home [[ChromeDriver: chrome on WINDOWS (00e62b2311c5ae84c617513b8b87327f)] -> xpath: //h1[@class='inner-banner__title']]
+2020-04-28 01:04:180 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:498 INFO  HomePage :38 - Clicking on Your Home Link :[[ChromeDriver: chrome on WINDOWS (dfc8d896dfa5804e454b3162c982e3d5)] -> xpath: //span[contains(text(),'Your account')]]
+2020-04-28 01:04:591 INFO  HomePage :29 - Clicking on Pay Your Rent Link  : [[ChromeDriver: chrome on WINDOWS (dfc8d896dfa5804e454b3162c982e3d5)] -> xpath: //p[contains(text(),'You can pay your rent quickly and easily online. M')]]
+2020-04-28 01:04:662 INFO  HomePage :36 - Displaying Your Home Text  :Your home [[ChromeDriver: chrome on WINDOWS (dfc8d896dfa5804e454b3162c982e3d5)] -> xpath: //h1[contains(text(),'Your home')]]
+2020-04-28 01:04:169 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:425 INFO  HomePage :52 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (16a901fa5f1031644566aeafa2edd24f)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Find a home')]]
+2020-04-28 01:04:937 INFO  HomePage :34 - Clicking on Exchange Your  Home Link :[[ChromeDriver: chrome on WINDOWS (16a901fa5f1031644566aeafa2edd24f)] -> xpath: //p[contains(text(),'Swapping homes using the mutual exchange service i')]]
+2020-04-28 01:04:145 INFO  HomePage :39 - Displaying Exchange Your Home Text  :Exchange your home [[ChromeDriver: chrome on WINDOWS (16a901fa5f1031644566aeafa2edd24f)] -> xpath: //h1[@class='inner-banner__title']]
+2020-04-28 01:04:677 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:519 INFO  HomePage :45 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-28 01:04:892 INFO  MyAccountPage :43 - Clicking on Login Tab :[[ChromeDriver: chrome on WINDOWS (56b7fcfc7c4ecc2b7ea84e2c767f53be)] -> xpath: //a[contains(text(),'Log In')]]
+2020-04-28 01:04:130 INFO  HomePage :27 - Displaying Login / Register Text :Login / Register [[ChromeDriver: chrome on WINDOWS (56b7fcfc7c4ecc2b7ea84e2c767f53be)] -> xpath: //h3[@class='panel-title']]
+2020-04-28 01:04:404 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:370 INFO  HomePage :45 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-28 01:04:947 INFO  MyAccountPage :43 - Clicking on Login Tab :[[ChromeDriver: chrome on WINDOWS (b4e86e2ca50e863c9265f0ebcb54e66a)] -> xpath: //a[contains(text(),'Log In')]]
+2020-04-28 01:04:470 INFO  HomePage :37 - Entering username  : 51699511 on Username Field [[ChromeDriver: chrome on WINDOWS (b4e86e2ca50e863c9265f0ebcb54e66a)] -> id: username]
+2020-04-28 01:04:739 INFO  HomePage :46 - Confirming email  : F6l8hSh on Password Field [[ChromeDriver: chrome on WINDOWS (b4e86e2ca50e863c9265f0ebcb54e66a)] -> id: password]
+2020-04-28 01:04:108 INFO  HomePage :55 - Clicking on Log in Buttton : [[ChromeDriver: chrome on WINDOWS (b4e86e2ca50e863c9265f0ebcb54e66a)] -> id: submit]
+2020-04-28 01:04:317 INFO  HomePage :63 - Displaying Login Error Alert Message [[ChromeDriver: chrome on WINDOWS (b4e86e2ca50e863c9265f0ebcb54e66a)] -> xpath: //div[@class='alert alert-error']]
+2020-04-28 01:04:954 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:687 INFO  HomePage :38 - Clicking on Your Home Link :[[ChromeDriver: chrome on WINDOWS (0c5f600c76ecc64eb0deb4624953f001)] -> xpath: //span[contains(text(),'Your account')]]
+2020-04-28 01:04:281 INFO  HomePage :29 - Clicking on Pay Your Rent Link  : [[ChromeDriver: chrome on WINDOWS (0c5f600c76ecc64eb0deb4624953f001)] -> xpath: //p[contains(text(),'You can pay your rent quickly and easily online. M')]]
+2020-04-28 01:04:429 INFO  HomePage :36 - Displaying Your Home Text  :Your home [[ChromeDriver: chrome on WINDOWS (0c5f600c76ecc64eb0deb4624953f001)] -> xpath: //h1[contains(text(),'Your home')]]
+2020-04-28 01:04:267 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:875 INFO  HomePage :52 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (2b41304e0cd3511e581ed459e3b3310b)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Find a home')]]
+2020-04-28 01:04:950 INFO  HomePage :34 - Clicking on Exchange Your  Home Link :[[ChromeDriver: chrome on WINDOWS (2b41304e0cd3511e581ed459e3b3310b)] -> xpath: //p[contains(text(),'Swapping homes using the mutual exchange service i')]]
+2020-04-28 01:04:146 INFO  HomePage :39 - Displaying Exchange Your Home Text  : [[ChromeDriver: chrome on WINDOWS (2b41304e0cd3511e581ed459e3b3310b)] -> xpath: //h1[@class='inner-banner__title']]
+2020-04-28 01:04:130 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:443 INFO  HomePage :45 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-28 01:04:54 INFO  MyAccountPage :43 - Clicking on Login Tab :[[ChromeDriver: chrome on WINDOWS (7eb327f8264042d115fefdf7c5db7360)] -> xpath: //a[contains(text(),'Log In')]]
+2020-04-28 01:04:362 INFO  HomePage :27 - Displaying Login / Register Text :Login / Register [[ChromeDriver: chrome on WINDOWS (7eb327f8264042d115fefdf7c5db7360)] -> xpath: //h3[@class='panel-title']]
+2020-04-28 01:04:90 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:573 INFO  HomePage :45 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-28 01:04:888 INFO  MyAccountPage :43 - Clicking on Login Tab :[[ChromeDriver: chrome on WINDOWS (882a8cf91fb8aed8d2e95064b639b6d7)] -> xpath: //a[contains(text(),'Log In')]]
+2020-04-28 01:04:279 INFO  HomePage :37 - Entering username  : 74017801 on Username Field [[ChromeDriver: chrome on WINDOWS (882a8cf91fb8aed8d2e95064b639b6d7)] -> id: username]
+2020-04-28 01:04:725 INFO  HomePage :46 - Confirming email  : ccIYhwU on Password Field [[ChromeDriver: chrome on WINDOWS (882a8cf91fb8aed8d2e95064b639b6d7)] -> id: password]
+2020-04-28 01:04:955 INFO  HomePage :55 - Clicking on Log in Buttton : [[ChromeDriver: chrome on WINDOWS (882a8cf91fb8aed8d2e95064b639b6d7)] -> id: submit]
+2020-04-28 01:04:299 INFO  HomePage :63 - Displaying Login Error Alert Message [[ChromeDriver: chrome on WINDOWS (882a8cf91fb8aed8d2e95064b639b6d7)] -> xpath: //div[@class='alert alert-error']]
+2020-04-28 01:04:56 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:391 INFO  HomePage :38 - Clicking on Your Home Link :[[ChromeDriver: chrome on WINDOWS (9ba1044b6bc927ea1a688defbf1ea1bf)] -> xpath: //span[contains(text(),'Your account')]]
+2020-04-28 01:04:825 INFO  HomePage :29 - Clicking on Pay Your Rent Link  : [[ChromeDriver: chrome on WINDOWS (9ba1044b6bc927ea1a688defbf1ea1bf)] -> xpath: //p[contains(text(),'You can pay your rent quickly and easily online. M')]]
+2020-04-28 01:04:87 INFO  HomePage :36 - Displaying Your Home Text  :Your home [[ChromeDriver: chrome on WINDOWS (9ba1044b6bc927ea1a688defbf1ea1bf)] -> xpath: //h1[contains(text(),'Your home')]]
+2020-04-28 01:04:935 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:111 INFO  HomePage :52 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (4cc06c80027fc5df1aa3c125757cda59)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Find a home')]]
+2020-04-28 01:04:877 INFO  HomePage :34 - Clicking on Exchange Your  Home Link :[[ChromeDriver: chrome on WINDOWS (4cc06c80027fc5df1aa3c125757cda59)] -> xpath: //p[contains(text(),'Swapping homes using the mutual exchange service i')]]
+2020-04-28 01:04:02 INFO  HomePage :39 - Displaying Exchange Your Home Text  :Exchange your home [[ChromeDriver: chrome on WINDOWS (4cc06c80027fc5df1aa3c125757cda59)] -> xpath: //h1[@class='inner-banner__title']]
+2020-04-28 01:04:93 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:483 INFO  HomePage :45 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-28 01:04:930 INFO  MyAccountPage :43 - Clicking on Login Tab :[[ChromeDriver: chrome on WINDOWS (9b5c7986bad923a3e8a9da25b6c01fd0)] -> xpath: //a[contains(text(),'Log In')]]
+2020-04-28 01:04:202 INFO  HomePage :27 - Displaying Login / Register Text :Login / Register [[ChromeDriver: chrome on WINDOWS (9b5c7986bad923a3e8a9da25b6c01fd0)] -> xpath: //h3[@class='panel-title']]
+2020-04-28 01:04:989 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:592 INFO  HomePage :45 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-28 01:04:17 INFO  MyAccountPage :43 - Clicking on Login Tab :[[ChromeDriver: chrome on WINDOWS (a9cb823be6f6ee0b7e12391482c0e960)] -> xpath: //a[contains(text(),'Log In')]]
+2020-04-28 01:04:614 INFO  HomePage :37 - Entering username  : 41212928 on Username Field [[ChromeDriver: chrome on WINDOWS (a9cb823be6f6ee0b7e12391482c0e960)] -> id: username]
+2020-04-28 01:04:16 INFO  HomePage :46 - Confirming email  : 3Ldx7nw on Password Field [[ChromeDriver: chrome on WINDOWS (a9cb823be6f6ee0b7e12391482c0e960)] -> id: password]
+2020-04-28 01:04:282 INFO  HomePage :55 - Clicking on Log in Buttton : [[ChromeDriver: chrome on WINDOWS (a9cb823be6f6ee0b7e12391482c0e960)] -> id: submit]
+2020-04-28 01:04:760 INFO  HomePage :63 - Displaying Login Error Alert Message [[ChromeDriver: chrome on WINDOWS (a9cb823be6f6ee0b7e12391482c0e960)] -> xpath: //div[@class='alert alert-error']]
+2020-04-28 01:04:829 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:69 INFO  HomePage :38 - Clicking on Your Home Link :[[ChromeDriver: chrome on WINDOWS (c5e2c1a52f31b077d39b2c6b621c7f17)] -> xpath: //span[contains(text(),'Your account')]]
+2020-04-28 01:04:289 INFO  HomePage :29 - Clicking on Pay Your Rent Link  : [[ChromeDriver: chrome on WINDOWS (c5e2c1a52f31b077d39b2c6b621c7f17)] -> xpath: //p[contains(text(),'You can pay your rent quickly and easily online. M')]]
+2020-04-28 01:04:999 INFO  HomePage :36 - Displaying Your Home Text  :Your home [[ChromeDriver: chrome on WINDOWS (c5e2c1a52f31b077d39b2c6b621c7f17)] -> xpath: //h1[contains(text(),'Your home')]]
+2020-04-28 01:04:826 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 01:04:878 INFO  HomePage :52 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (48fb265d5296b37701cc9baed8b1886e)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Find a home')]]
+2020-04-28 01:04:56 INFO  HomePage :34 - Clicking on Exchange Your  Home Link :[[ChromeDriver: chrome on WINDOWS (48fb265d5296b37701cc9baed8b1886e)] -> xpath: //p[contains(text(),'Swapping homes using the mutual exchange service i')]]
+2020-04-28 01:04:186 INFO  HomePage :39 - Displaying Exchange Your Home Text  :Exchange your home [[ChromeDriver: chrome on WINDOWS (48fb265d5296b37701cc9baed8b1886e)] -> xpath: //h1[@class='inner-banner__title']]
+2020-04-29 00:04:556 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 00:04:118 INFO  HomePage :45 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-29 00:04:446 INFO  MyAccountPage :43 - Clicking on Login Tab :[[ChromeDriver: chrome on WINDOWS (45f0ce98a07af01c191bdfcaab7046b8)] -> xpath: //a[contains(text(),'Log In')]]
+2020-04-29 00:04:768 INFO  HomePage :27 - Displaying Login / Register Text :Login / Register [[ChromeDriver: chrome on WINDOWS (45f0ce98a07af01c191bdfcaab7046b8)] -> xpath: //h3[@class='panel-title']]
+2020-04-29 00:04:252 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 00:04:67 INFO  HomePage :45 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-29 00:04:413 INFO  MyAccountPage :43 - Clicking on Login Tab :[[ChromeDriver: chrome on WINDOWS (2410e19dedb6da17fb15defdd0f9ed0a)] -> xpath: //a[contains(text(),'Log In')]]
+2020-04-29 00:04:838 INFO  HomePage :37 - Entering username  : 52357430 on Username Field [[ChromeDriver: chrome on WINDOWS (2410e19dedb6da17fb15defdd0f9ed0a)] -> id: username]
+2020-04-29 00:04:113 INFO  HomePage :46 - Confirming email  : l9mrI41 on Password Field [[ChromeDriver: chrome on WINDOWS (2410e19dedb6da17fb15defdd0f9ed0a)] -> id: password]
+2020-04-29 00:04:414 INFO  HomePage :55 - Clicking on Log in Buttton : [[ChromeDriver: chrome on WINDOWS (2410e19dedb6da17fb15defdd0f9ed0a)] -> id: submit]
+2020-04-29 00:04:772 INFO  HomePage :63 - Displaying Login Error Alert Message [[ChromeDriver: chrome on WINDOWS (2410e19dedb6da17fb15defdd0f9ed0a)] -> xpath: //div[@class='alert alert-error']]
+2020-04-29 00:04:121 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 00:04:669 INFO  HomePage :38 - Clicking on Your Home Link :[[ChromeDriver: chrome on WINDOWS (c422e5f066d59828ba825fdbf5d9d681)] -> xpath: //span[contains(text(),'Your account')]]
+2020-04-29 00:04:361 INFO  HomePage :29 - Clicking on Pay Your Rent Link  : [[ChromeDriver: chrome on WINDOWS (c422e5f066d59828ba825fdbf5d9d681)] -> xpath: //p[contains(text(),'You can pay your rent quickly and easily online. M')]]
+2020-04-29 00:04:626 INFO  HomePage :36 - Displaying Your Home Text  :Your home [[ChromeDriver: chrome on WINDOWS (c422e5f066d59828ba825fdbf5d9d681)] -> xpath: //h1[contains(text(),'Your home')]]
+2020-04-29 00:04:165 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 00:04:51 INFO  HomePage :52 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (fc075a02877104fc8e282f329fb78f5b)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Find a home')]]
+2020-04-29 00:04:229 INFO  HomePage :34 - Clicking on Exchange Your  Home Link :[[ChromeDriver: chrome on WINDOWS (fc075a02877104fc8e282f329fb78f5b)] -> xpath: //p[contains(text(),'Swapping homes using the mutual exchange service i')]]
+2020-04-29 00:04:478 INFO  HomePage :39 - Displaying Exchange Your Home Text  :Exchange your home [[ChromeDriver: chrome on WINDOWS (fc075a02877104fc8e282f329fb78f5b)] -> xpath: //h1[@class='inner-banner__title']]
+2020-04-29 01:04:350 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 01:04:651 INFO  HomePage :43 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-29 01:04:945 INFO  MyAccountPage :43 - Clicking on Login Tab :[[ChromeDriver: chrome on WINDOWS (c5e87995ca01c2022ceb6b0bd9cc0bb7)] -> xpath: //a[contains(text(),'Log In')]]
+2020-04-29 01:04:208 INFO  HomePage :27 - Displaying Login / Register Text :Login / Register [[ChromeDriver: chrome on WINDOWS (c5e87995ca01c2022ceb6b0bd9cc0bb7)] -> xpath: //h3[@class='panel-title']]
+2020-04-29 01:04:882 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 01:04:478 INFO  HomePage :43 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-29 01:04:821 INFO  MyAccountPage :43 - Clicking on Login Tab :[[ChromeDriver: chrome on WINDOWS (aa47f2c094577190654e449121f07e4f)] -> xpath: //a[contains(text(),'Log In')]]
+2020-04-29 01:04:289 INFO  HomePage :37 - Entering username  : 10228033 on Username Field [[ChromeDriver: chrome on WINDOWS (aa47f2c094577190654e449121f07e4f)] -> id: username]
+2020-04-29 01:04:573 INFO  HomePage :46 - Confirming email  : pN8q9P9 on Password Field [[ChromeDriver: chrome on WINDOWS (aa47f2c094577190654e449121f07e4f)] -> id: password]
+2020-04-29 01:04:761 INFO  HomePage :55 - Clicking on Log in Buttton : [[ChromeDriver: chrome on WINDOWS (aa47f2c094577190654e449121f07e4f)] -> id: submit]
+2020-04-29 01:04:72 INFO  HomePage :63 - Displaying Login Error Alert Message [[ChromeDriver: chrome on WINDOWS (aa47f2c094577190654e449121f07e4f)] -> xpath: //div[@class='alert alert-error']]
+2020-04-29 01:04:712 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 01:04:93 INFO  HomePage :36 - Clicking on Your Home Link :[[ChromeDriver: chrome on WINDOWS (e255f252f8b422da5f5e96ef86c38475)] -> xpath: //span[contains(text(),'Your account')]]
+2020-04-29 01:04:395 INFO  HomePage :29 - Clicking on Pay Your Rent Link  : [[ChromeDriver: chrome on WINDOWS (e255f252f8b422da5f5e96ef86c38475)] -> xpath: //p[contains(text(),'You can pay your rent quickly and easily online. M')]]
+2020-04-29 01:04:593 INFO  HomePage :36 - Displaying Your Home Text  :Your home [[ChromeDriver: chrome on WINDOWS (e255f252f8b422da5f5e96ef86c38475)] -> xpath: //h1[contains(text(),'Your home')]]
+2020-04-29 01:04:647 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 01:04:944 INFO  HomePage :50 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (11aae702d7eb8632605225e929f4a5c0)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Find a home')]]
+2020-04-29 01:04:389 INFO  HomePage :34 - Clicking on Exchange Your  Home Link :[[ChromeDriver: chrome on WINDOWS (11aae702d7eb8632605225e929f4a5c0)] -> xpath: //p[contains(text(),'Swapping homes using the mutual exchange service i')]]
+2020-04-29 01:04:593 INFO  HomePage :39 - Displaying Exchange Your Home Text  :Exchange your home [[ChromeDriver: chrome on WINDOWS (11aae702d7eb8632605225e929f4a5c0)] -> xpath: //h1[@class='inner-banner__title']]
